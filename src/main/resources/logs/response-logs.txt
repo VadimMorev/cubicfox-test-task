@@ -1,0 +1,467 @@
+
+Query for url: https://jsonplaceholder.typicode.com/users, method GET with body null, done on time: 2022-04-22T19:57:50.065083
+Query response with status code 200 and body: 
+ [
+{"id":1,
+"name":"Leanne Graham",
+"username":"Bret",
+"email":"Sincere@april.biz",
+"website":"hildegard.org",
+"phone":"1-770-736-8031 x56442",
+"address":
+{"zipcode":"92998-3874",
+"geo":
+{"lng":"81.1496",
+"lat":"-37.3159"
+},
+"suite":"Apt. 556",
+"city":"Gwenborough",
+"street":"Kulas Light"
+},
+"company":
+{"bs":"harness real-time e-markets",
+"catchPhrase":"Multi-layered client-server neural-net",
+"name":"Romaguera-Crona"
+}
+},
+
+{"id":2,
+"name":"Ervin Howell",
+"username":"Antonette",
+"email":"Shanna@melissa.tv",
+"website":"anastasia.net",
+"phone":"010-692-6593 x09125",
+"address":
+{"zipcode":"90566-7771",
+"geo":
+{"lng":"-34.4618",
+"lat":"-43.9509"
+},
+"suite":"Suite 879",
+"city":"Wisokyburgh",
+"street":"Victor Plains"
+},
+"company":
+{"bs":"synergize scalable supply-chains",
+"catchPhrase":"Proactive didactic contingency",
+"name":"Deckow-Crist"
+}
+},
+
+{"id":3,
+"name":"Clementine Bauch",
+"username":"Samantha",
+"email":"Nathan@yesenia.net",
+"website":"ramiro.info",
+"phone":"1-463-123-4447",
+"address":
+{"zipcode":"59590-4157",
+"geo":
+{"lng":"-47.0653",
+"lat":"-68.6102"
+},
+"suite":"Suite 847",
+"city":"McKenziehaven",
+"street":"Douglas Extension"
+},
+"company":
+{"bs":"e-enable strategic applications",
+"catchPhrase":"Face to face bifurcated interface",
+"name":"Romaguera-Jacobson"
+}
+},
+
+{"id":4,
+"name":"Patricia Lebsack",
+"username":"Karianne",
+"email":"Julianne.OConner@kory.org",
+"website":"kale.biz",
+"phone":"493-170-9623 x156",
+"address":
+{"zipcode":"53919-4257",
+"geo":
+{"lng":"-164.2990",
+"lat":"29.4572"
+},
+"suite":"Apt. 692",
+"city":"South Elvis",
+"street":"Hoeger Mall"
+},
+"company":
+{"bs":"transition cutting-edge web services",
+"catchPhrase":"Multi-tiered zero tolerance productivity",
+"name":"Robel-Corkery"
+}
+},
+
+{"id":5,
+"name":"Chelsey Dietrich",
+"username":"Kamren",
+"email":"Lucio_Hettinger@annie.ca",
+"website":"demarco.info",
+"phone":"(254)954-1289",
+"address":
+{"zipcode":"33263",
+"geo":
+{"lng":"62.5342",
+"lat":"-31.8129"
+},
+"suite":"Suite 351",
+"city":"Roscoeview",
+"street":"Skiles Walks"
+},
+"company":
+{"bs":"revolutionize end-to-end systems",
+"catchPhrase":"User-centric fault-tolerant solution",
+"name":"Keebler LLC"
+}
+},
+
+{"id":6,
+"name":"Mrs. Dennis Schulist",
+"username":"Leopoldo_Corkery",
+"email":"Karley_Dach@jasper.info",
+"website":"ola.org",
+"phone":"1-477-935-8478 x6430",
+"address":
+{"zipcode":"23505-1337",
+"geo":
+{"lng":"71.7478",
+"lat":"-71.4197"
+},
+"suite":"Apt. 950",
+"city":"South Christy",
+"street":"Norberto Crossing"
+},
+"company":
+{"bs":"e-enable innovative applications",
+"catchPhrase":"Synchronised bottom-line interface",
+"name":"Considine-Lockman"
+}
+},
+
+{"id":7,
+"name":"Kurtis Weissnat",
+"username":"Elwyn.Skiles",
+"email":"Telly.Hoeger@billy.biz",
+"website":"elvis.io",
+"phone":"210.067.6132",
+"address":
+{"zipcode":"58804-1099",
+"geo":
+{"lng":"21.8984",
+"lat":"24.8918"
+},
+"suite":"Suite 280",
+"city":"Howemouth",
+"street":"Rex Trail"
+},
+"company":
+{"bs":"generate enterprise e-tailers",
+"catchPhrase":"Configurable multimedia task-force",
+"name":"Johns Group"
+}
+},
+
+{"id":8,
+"name":"Nicholas Runolfsdottir V",
+"username":"Maxime_Nienow",
+"email":"Sherwood@rosamond.me",
+"website":"jacynthe.com",
+"phone":"586.493.6943 x140",
+"address":
+{"zipcode":"45169",
+"geo":
+{"lng":"-120.7677",
+"lat":"-14.3990"
+},
+"suite":"Suite 729",
+"city":"Aliyaview",
+"street":"Ellsworth Summit"
+},
+"company":
+{"bs":"e-enable extensible e-tailers",
+"catchPhrase":"Implemented secondary concept",
+"name":"Abernathy Group"
+}
+},
+
+{"id":9,
+"name":"Glenna Reichert",
+"username":"Delphine",
+"email":"Chaim_McDermott@dana.io",
+"website":"conrad.com",
+"phone":"(775)976-6794 x41206",
+"address":
+{"zipcode":"76495-3109",
+"geo":
+{"lng":"-168.8889",
+"lat":"24.6463"
+},
+"suite":"Suite 449",
+"city":"Bartholomebury",
+"street":"Dayna Park"
+},
+"company":
+{"bs":"aggregate real-time technologies",
+"catchPhrase":"Switchable contextually-based project",
+"name":"Yost and Sons"
+}
+},
+
+{"id":10,
+"name":"Clementina DuBuque",
+"username":"Moriah.Stanton",
+"email":"Rey.Padberg@karina.biz",
+"website":"ambrose.net",
+"phone":"024-648-3804",
+"address":
+{"zipcode":"31428-2261",
+"geo":
+{"lng":"57.2232",
+"lat":"-38.2386"
+},
+"suite":"Suite 198",
+"city":"Lebsackbury",
+"street":"Kattie Turnpike"
+},
+"company":
+{"bs":"target end-to-end models",
+"catchPhrase":"Centralized empowering task-force",
+"name":"Hoeger LLC"
+}
+}] 
+ -----------------------------------
+Query for url: https://jsonplaceholder.typicode.com/users, method GET with body null, done on time: 2022-04-22T20:15:22.934340
+Query response with status code 200 and body: 
+ [
+{"id":1,
+"name":"Leanne Graham",
+"username":"Bret",
+"email":"Sincere@april.biz",
+"website":"hildegard.org",
+"phone":"1-770-736-8031 x56442",
+"address":
+{"zipcode":"92998-3874",
+"geo":
+{"lng":"81.1496",
+"lat":"-37.3159"
+},
+"suite":"Apt. 556",
+"city":"Gwenborough",
+"street":"Kulas Light"
+},
+"company":
+{"bs":"harness real-time e-markets",
+"catchPhrase":"Multi-layered client-server neural-net",
+"name":"Romaguera-Crona"
+}
+},
+
+{"id":2,
+"name":"Ervin Howell",
+"username":"Antonette",
+"email":"Shanna@melissa.tv",
+"website":"anastasia.net",
+"phone":"010-692-6593 x09125",
+"address":
+{"zipcode":"90566-7771",
+"geo":
+{"lng":"-34.4618",
+"lat":"-43.9509"
+},
+"suite":"Suite 879",
+"city":"Wisokyburgh",
+"street":"Victor Plains"
+},
+"company":
+{"bs":"synergize scalable supply-chains",
+"catchPhrase":"Proactive didactic contingency",
+"name":"Deckow-Crist"
+}
+},
+
+{"id":3,
+"name":"Clementine Bauch",
+"username":"Samantha",
+"email":"Nathan@yesenia.net",
+"website":"ramiro.info",
+"phone":"1-463-123-4447",
+"address":
+{"zipcode":"59590-4157",
+"geo":
+{"lng":"-47.0653",
+"lat":"-68.6102"
+},
+"suite":"Suite 847",
+"city":"McKenziehaven",
+"street":"Douglas Extension"
+},
+"company":
+{"bs":"e-enable strategic applications",
+"catchPhrase":"Face to face bifurcated interface",
+"name":"Romaguera-Jacobson"
+}
+},
+
+{"id":4,
+"name":"Patricia Lebsack",
+"username":"Karianne",
+"email":"Julianne.OConner@kory.org",
+"website":"kale.biz",
+"phone":"493-170-9623 x156",
+"address":
+{"zipcode":"53919-4257",
+"geo":
+{"lng":"-164.2990",
+"lat":"29.4572"
+},
+"suite":"Apt. 692",
+"city":"South Elvis",
+"street":"Hoeger Mall"
+},
+"company":
+{"bs":"transition cutting-edge web services",
+"catchPhrase":"Multi-tiered zero tolerance productivity",
+"name":"Robel-Corkery"
+}
+},
+
+{"id":5,
+"name":"Chelsey Dietrich",
+"username":"Kamren",
+"email":"Lucio_Hettinger@annie.ca",
+"website":"demarco.info",
+"phone":"(254)954-1289",
+"address":
+{"zipcode":"33263",
+"geo":
+{"lng":"62.5342",
+"lat":"-31.8129"
+},
+"suite":"Suite 351",
+"city":"Roscoeview",
+"street":"Skiles Walks"
+},
+"company":
+{"bs":"revolutionize end-to-end systems",
+"catchPhrase":"User-centric fault-tolerant solution",
+"name":"Keebler LLC"
+}
+},
+
+{"id":6,
+"name":"Mrs. Dennis Schulist",
+"username":"Leopoldo_Corkery",
+"email":"Karley_Dach@jasper.info",
+"website":"ola.org",
+"phone":"1-477-935-8478 x6430",
+"address":
+{"zipcode":"23505-1337",
+"geo":
+{"lng":"71.7478",
+"lat":"-71.4197"
+},
+"suite":"Apt. 950",
+"city":"South Christy",
+"street":"Norberto Crossing"
+},
+"company":
+{"bs":"e-enable innovative applications",
+"catchPhrase":"Synchronised bottom-line interface",
+"name":"Considine-Lockman"
+}
+},
+
+{"id":7,
+"name":"Kurtis Weissnat",
+"username":"Elwyn.Skiles",
+"email":"Telly.Hoeger@billy.biz",
+"website":"elvis.io",
+"phone":"210.067.6132",
+"address":
+{"zipcode":"58804-1099",
+"geo":
+{"lng":"21.8984",
+"lat":"24.8918"
+},
+"suite":"Suite 280",
+"city":"Howemouth",
+"street":"Rex Trail"
+},
+"company":
+{"bs":"generate enterprise e-tailers",
+"catchPhrase":"Configurable multimedia task-force",
+"name":"Johns Group"
+}
+},
+
+{"id":8,
+"name":"Nicholas Runolfsdottir V",
+"username":"Maxime_Nienow",
+"email":"Sherwood@rosamond.me",
+"website":"jacynthe.com",
+"phone":"586.493.6943 x140",
+"address":
+{"zipcode":"45169",
+"geo":
+{"lng":"-120.7677",
+"lat":"-14.3990"
+},
+"suite":"Suite 729",
+"city":"Aliyaview",
+"street":"Ellsworth Summit"
+},
+"company":
+{"bs":"e-enable extensible e-tailers",
+"catchPhrase":"Implemented secondary concept",
+"name":"Abernathy Group"
+}
+},
+
+{"id":9,
+"name":"Glenna Reichert",
+"username":"Delphine",
+"email":"Chaim_McDermott@dana.io",
+"website":"conrad.com",
+"phone":"(775)976-6794 x41206",
+"address":
+{"zipcode":"76495-3109",
+"geo":
+{"lng":"-168.8889",
+"lat":"24.6463"
+},
+"suite":"Suite 449",
+"city":"Bartholomebury",
+"street":"Dayna Park"
+},
+"company":
+{"bs":"aggregate real-time technologies",
+"catchPhrase":"Switchable contextually-based project",
+"name":"Yost and Sons"
+}
+},
+
+{"id":10,
+"name":"Clementina DuBuque",
+"username":"Moriah.Stanton",
+"email":"Rey.Padberg@karina.biz",
+"website":"ambrose.net",
+"phone":"024-648-3804",
+"address":
+{"zipcode":"31428-2261",
+"geo":
+{"lng":"57.2232",
+"lat":"-38.2386"
+},
+"suite":"Suite 198",
+"city":"Lebsackbury",
+"street":"Kattie Turnpike"
+},
+"company":
+{"bs":"target end-to-end models",
+"catchPhrase":"Centralized empowering task-force",
+"name":"Hoeger LLC"
+}
+}] 
+ -----------------------------------
