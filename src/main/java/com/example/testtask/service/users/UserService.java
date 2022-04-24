@@ -70,7 +70,7 @@ public class UserService {
     }
 
     private void logGetUsersQuery(final ResponseEntity<Response[]> response) {
-        ObjectMapper mapper = new ObjectMapper();
+        final ObjectMapper mapper = new ObjectMapper();
         fileLogger.log(format("Query for url: %s, method %s with body %s, done on time: %s", url, HttpMethod.GET.name(),
                 HttpEntity.EMPTY.getBody(), LocalDateTime.now()));
         try {
