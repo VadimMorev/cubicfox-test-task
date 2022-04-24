@@ -3,8 +3,9 @@ package com.example.testtask.dao.repository;
 import com.example.testtask.dao.model.Address;
 import org.springframework.data.repository.CrudRepository;
 
-public interface AddressRepository extends CrudRepository<Address, Long> {
-    boolean existsByZipcode(final String zipcode);
+import java.util.Optional;
 
-    Address findByZipcode(final String zipcode);
+public interface AddressRepository extends CrudRepository<Address, Long> {
+
+    Optional<Address> findByZipcode(final String zipcode);
 }

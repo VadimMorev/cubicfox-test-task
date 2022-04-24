@@ -2,6 +2,7 @@ package com.example.testtask.service.address;
 
 import com.example.testtask.dao.model.Address;
 import com.example.testtask.dao.repository.AddressRepository;
+import com.example.testtask.exception.ResourceNotFoundException;
 import com.example.testtask.service.dto.Response;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
@@ -13,7 +14,7 @@ public class AddressService {
 
     public Address saveFromResponse(final Response response) {
         final com.example.testtask.service.dto.Address address = response.getAddress();
-        if (!repository.existsByZipcode(address.getZipcode())) {
+        if (repository.findByZipcode(address.getZipcode()).isEmpty()) {
             return this.repository.save(
                     Address.builder()
                             .street(address.getStreet())
@@ -24,6 +25,7 @@ public class AddressService {
                             .geoLng(Double.valueOf(address.getGeo().getLng()))
                             .build());
         }
-        return repository.findByZipcode(address.getZipcode());
+        return repository.findByZipcode(address.getZipcode())
+                .orElseThrow(() -> new ResourceNotFoundException(Address.class, address.getZipcode()));
     }
 }

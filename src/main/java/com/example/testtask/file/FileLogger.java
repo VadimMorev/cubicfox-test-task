@@ -25,17 +25,17 @@ public class FileLogger {
         try {
             file.createNewFile();
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
         return file;
     }
 
     public void log(final String text) {
-        File file = createFileIfNotExist();
+        final File file = createFileIfNotExist();
         try (FileWriter writer = new FileWriter(file,true)) {
             writer.write(NEW_LINE + text);
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
     }
 }
